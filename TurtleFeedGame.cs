@@ -9,6 +9,7 @@ namespace TurtleFeedGame
 {
     class Program
     {
+        public static object Keys { get; private set; }
 
         static void Main(string[] args)
         {
@@ -21,6 +22,10 @@ namespace TurtleFeedGame
             var playzone = Shapes.AddRectangle(800, 600);
             GraphicsWindow.BrushColor = "Purple";
             var food = Shapes.AddRectangle(20, 20);
+            int score = 0;
+            var scoreText = Shapes.AddText(score);
+            Shapes.Zoom(scoreText, 5, 5);  
+            Shapes.Move(scoreText, 900, 50);
 
             Random r = new Random();
             int foodX = r.Next(0, 800);
@@ -33,11 +38,12 @@ namespace TurtleFeedGame
                 Turtle.Move(10);
                 if (Turtle.X.GreaterThan(foodX) && Turtle.X.LessThan(foodX+20) && Turtle.Y.GreaterThan(foodY) && Turtle.Y.LessThan(foodY+20))
                 {
-                    foodX = foodX + 25; // перемещение еды согласно заданию
-                    //foodX = r.Next(0, 780); // случайное появление еды
-                    //foodY = r.Next(0, 580);
+                    //foodX = foodX + 25; // перемещение еды согласно заданию
+                    foodX = r.Next(0, 780); // случайное появление еды
+                    foodY = r.Next(0, 580);
                     Shapes.Move(food, foodX, foodY);
-
+                    score++;
+                    Shapes.SetText(scoreText, score);
                 }
                 if (Turtle.X.GreaterThan(800))
                 {
@@ -77,6 +83,11 @@ namespace TurtleFeedGame
             {
                 Turtle.Angle = 270;
             }
+            else if (GraphicsWindow.LastKey == "Escape")
+            {
+                Environment.Exit(0);
+            }
+            
         }
     }
 }
