@@ -34,7 +34,15 @@ namespace TurtleTraining
                 
                 i++;
             }
-
+            Turtle.Move(Stepsize * 2);
+            Turtle.TurnLeft();
+            int j = 0;
+            while (j<6) {
+                Turtle.Move(Stepsize * i);
+                Turtle.Turn(-60);
+                j++;
+            }
+            
         }
     }
 }
