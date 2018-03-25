@@ -1,0 +1,7 @@
+C:\Users\AZ\source\repos\Homework_lesson2\Min_of_3\bin\Debug\Min_of_3.exe.config
+C:\Users\AZ\source\repos\Homework_lesson2\Min_of_3\bin\Debug\Min_of_3.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Min_of_3\bin\Debug\Min_of_3.pdb
+C:\Users\AZ\source\repos\Homework_lesson2\Min_of_3\obj\Debug\Min_of_3.csprojResolveAssemblyReference.cache
+C:\Users\AZ\source\repos\Homework_lesson2\Min_of_3\obj\Debug\Min_of_3.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson2\Min_of_3\obj\Debug\Min_of_3.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Min_of_3\obj\Debug\Min_of_3.pdb

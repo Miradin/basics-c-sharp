@@ -1,0 +1,7 @@
+C:\Users\AZ\source\repos\Homework_lesson2\Sum_of_positive_odds\bin\Debug\Sum_of_positive_odds.exe.config
+C:\Users\AZ\source\repos\Homework_lesson2\Sum_of_positive_odds\bin\Debug\Sum_of_positive_odds.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Sum_of_positive_odds\bin\Debug\Sum_of_positive_odds.pdb
+C:\Users\AZ\source\repos\Homework_lesson2\Sum_of_positive_odds\obj\Debug\Sum_of_positive_odds.csprojResolveAssemblyReference.cache
+C:\Users\AZ\source\repos\Homework_lesson2\Sum_of_positive_odds\obj\Debug\Sum_of_positive_odds.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson2\Sum_of_positive_odds\obj\Debug\Sum_of_positive_odds.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Sum_of_positive_odds\obj\Debug\Sum_of_positive_odds.pdb

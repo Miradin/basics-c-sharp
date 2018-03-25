@@ -1,0 +1,7 @@
+C:\Users\AZ\source\repos\Homework_lesson2\Good_Numbers\bin\Debug\Good_Numbers.exe.config
+C:\Users\AZ\source\repos\Homework_lesson2\Good_Numbers\bin\Debug\Good_Numbers.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Good_Numbers\bin\Debug\Good_Numbers.pdb
+C:\Users\AZ\source\repos\Homework_lesson2\Good_Numbers\obj\Debug\Good_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\AZ\source\repos\Homework_lesson2\Good_Numbers\obj\Debug\Good_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson2\Good_Numbers\obj\Debug\Good_Numbers.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Good_Numbers\obj\Debug\Good_Numbers.pdb

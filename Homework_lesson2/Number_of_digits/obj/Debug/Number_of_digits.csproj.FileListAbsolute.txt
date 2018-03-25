@@ -1,0 +1,6 @@
+C:\Users\AZ\source\repos\Homework_lesson2\Number_of_digits\bin\Debug\Number_of_digits.exe.config
+C:\Users\AZ\source\repos\Homework_lesson2\Number_of_digits\bin\Debug\Number_of_digits.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Number_of_digits\bin\Debug\Number_of_digits.pdb
+C:\Users\AZ\source\repos\Homework_lesson2\Number_of_digits\obj\Debug\Number_of_digits.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson2\Number_of_digits\obj\Debug\Number_of_digits.exe
+C:\Users\AZ\source\repos\Homework_lesson2\Number_of_digits\obj\Debug\Number_of_digits.pdb

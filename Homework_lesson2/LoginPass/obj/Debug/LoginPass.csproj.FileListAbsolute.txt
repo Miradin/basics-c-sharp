@@ -1,0 +1,7 @@
+C:\Users\AZ\source\repos\Homework_lesson2\LoginPass\bin\Debug\LoginPass.exe.config
+C:\Users\AZ\source\repos\Homework_lesson2\LoginPass\bin\Debug\LoginPass.exe
+C:\Users\AZ\source\repos\Homework_lesson2\LoginPass\bin\Debug\LoginPass.pdb
+C:\Users\AZ\source\repos\Homework_lesson2\LoginPass\obj\Debug\LoginPass.csprojResolveAssemblyReference.cache
+C:\Users\AZ\source\repos\Homework_lesson2\LoginPass\obj\Debug\LoginPass.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson2\LoginPass\obj\Debug\LoginPass.exe
+C:\Users\AZ\source\repos\Homework_lesson2\LoginPass\obj\Debug\LoginPass.pdb
