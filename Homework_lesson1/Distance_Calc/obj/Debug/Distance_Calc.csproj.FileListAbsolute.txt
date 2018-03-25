@@ -1,0 +1,6 @@
+C:\Users\AZ\source\repos\Homework_lesson1\Distance_Calc\bin\Debug\Distance_Calc.exe.config
+C:\Users\AZ\source\repos\Homework_lesson1\Distance_Calc\bin\Debug\Distance_Calc.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Distance_Calc\bin\Debug\Distance_Calc.pdb
+C:\Users\AZ\source\repos\Homework_lesson1\Distance_Calc\obj\Debug\Distance_Calc.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson1\Distance_Calc\obj\Debug\Distance_Calc.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Distance_Calc\obj\Debug\Distance_Calc.pdb

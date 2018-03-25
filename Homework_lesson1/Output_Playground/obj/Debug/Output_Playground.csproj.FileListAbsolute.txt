@@ -1,0 +1,7 @@
+C:\Users\AZ\source\repos\Homework_lesson1\Output_Playground\bin\Debug\Output_Playground.exe.config
+C:\Users\AZ\source\repos\Homework_lesson1\Output_Playground\bin\Debug\Output_Playground.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Output_Playground\bin\Debug\Output_Playground.pdb
+C:\Users\AZ\source\repos\Homework_lesson1\Output_Playground\obj\Debug\Output_Playground.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson1\Output_Playground\obj\Debug\Output_Playground.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Output_Playground\obj\Debug\Output_Playground.pdb
+C:\Users\AZ\source\repos\Homework_lesson1\Output_Playground\obj\Debug\Output_Playground.csprojResolveAssemblyReference.cache

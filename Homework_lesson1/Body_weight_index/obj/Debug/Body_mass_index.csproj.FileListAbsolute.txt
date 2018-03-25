@@ -1,0 +1,7 @@
+C:\Users\AZ\source\repos\Homework_lesson1\Body_weight_index\bin\Debug\Body_weight_index.exe.config
+C:\Users\AZ\source\repos\Homework_lesson1\Body_weight_index\bin\Debug\Body_weight_index.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Body_weight_index\bin\Debug\Body_weight_index.pdb
+C:\Users\AZ\source\repos\Homework_lesson1\Body_weight_index\obj\Debug\Body_mass_index.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson1\Body_weight_index\obj\Debug\Body_weight_index.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Body_weight_index\obj\Debug\Body_weight_index.pdb
+C:\Users\AZ\source\repos\Homework_lesson1\Body_weight_index\obj\Debug\Body_mass_index.csprojResolveAssemblyReference.cache

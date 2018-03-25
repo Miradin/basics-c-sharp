@@ -1,0 +1,7 @@
+C:\Users\AZ\source\repos\Homework_lesson1\Variable_Exchange\obj\Debug\Variable_Exchange.csproj.CoreCompileInputs.cache
+C:\Users\AZ\source\repos\Homework_lesson1\Variable_Exchange\bin\Debug\Variable_Exchange.exe.config
+C:\Users\AZ\source\repos\Homework_lesson1\Variable_Exchange\bin\Debug\Variable_Exchange.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Variable_Exchange\bin\Debug\Variable_Exchange.pdb
+C:\Users\AZ\source\repos\Homework_lesson1\Variable_Exchange\obj\Debug\Variable_Exchange.csprojResolveAssemblyReference.cache
+C:\Users\AZ\source\repos\Homework_lesson1\Variable_Exchange\obj\Debug\Variable_Exchange.exe
+C:\Users\AZ\source\repos\Homework_lesson1\Variable_Exchange\obj\Debug\Variable_Exchange.pdb
